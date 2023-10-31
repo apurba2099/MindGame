@@ -28,7 +28,7 @@ body {
   background: url(./image/img4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  cursor: url(./image/cursor.png), auto;
+  cursor: url(./image/icons8-cursor-50.png), auto;
 }
 
 .container {
